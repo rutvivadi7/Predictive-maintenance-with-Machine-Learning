@@ -1,4 +1,4 @@
-# Predictive-maintenance-with-Machine-Learning
+# Predictive maintenance for Industrial Equipment Using Machine Learning
 <!DOCTYPE html>
 <html lang="en">
 <head>
